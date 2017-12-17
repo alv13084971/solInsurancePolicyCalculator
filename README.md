@@ -1,0 +1,2 @@
+# solInsurancePolicyCalculator
+# Insurance policy claculator
